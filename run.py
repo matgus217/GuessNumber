@@ -11,10 +11,11 @@ def get_user_name():
         break
 
         def user_guess(x):
-    """
+             """
     Function that generates a random number between 1 and 20
     """
-    while True:
+    
+     while True:
         try:
             number = random.randint(1, x)
             user_guess = 0
