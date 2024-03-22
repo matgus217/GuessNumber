@@ -2,7 +2,7 @@
 
 Guess The Number is a python terminal game. Users play against the computer by guessing a number that the computer randomly has chosen. The player can also decide a number and let the computer guess it. 
 
-LINK TO HEROKU
+[Here is the live version of my project](https://guessnumber-98442c7e9518.herokuapp.com/)
 
 ## How to play
 
