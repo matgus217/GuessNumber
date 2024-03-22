@@ -22,9 +22,9 @@ def get_user_name():
                 user_guess = int(input(f'Make a guess between 1 and {x}:\n'))
 
                 if (user_guess < number):
-                    print('Sorry you guessed too low, try again!\n')
+                    print('You guessed too low, try again!\n')
                 elif (user_guess > number):
-                    print('Sorry you guessed too high, try again!\n')
+                    print('You guessed too high, try again!\n')
                 else:
                     print(f'You guessed correct, it was {number}!\n')
             break
