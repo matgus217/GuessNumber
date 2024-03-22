@@ -52,3 +52,10 @@ def computer_guess(x):
             high = guess - 1
         else:
             print(f'The computer guessed your number, {guess}!')
+
+            """
+Calling functions
+"""
+get_user_name()
+user_guess(20)
+computer_guess(20)
